@@ -11,7 +11,7 @@ export const Navbar = () => {
         <>
         <div className='navbar'>
             <div className='logo'>
-            <img  src="https://www.expensetracker.site/logo.jpg" alt="" />
+            
             <h1 >ExpenseTracker</h1>
             </div>
             
